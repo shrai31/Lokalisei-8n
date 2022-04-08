@@ -1,0 +1,9 @@
+{
+  "welcome": "欢迎",
+  "date_format_one": "{{date, YYYY-MM-DD}}",
+  "keyWithCount": "Himanshu 买了 {{count}} 本书",
+  "date_format_two": "{{date, DD-MM-YYYY}}",
+  "number_format": "商店里有{{number, ','}}本书",
+  "keyWithCount_plural": "Himanshu 买了 {{count}} 本书",
+  "lorem": "“第一次勝利後不要休息，因為如果第二次失敗，更多的嘴唇在等著說你的第一次勝利只是運氣。”要成功完成任務，必須對目標一心一意"
+}

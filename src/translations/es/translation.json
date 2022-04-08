@@ -1,0 +1,9 @@
+{
+  "welcome": "bienvenida",
+  "date_format_one": "{{date, YYYY-MM-DD}}",
+  "keyWithCount": "Himanshu ha comprado {{count}} libro",
+  "keyWithCount_plural": "Himanshu ha comprado {{count}} libros",
+  "date_format_two": "{{date, DD-MM-YYYY}}",
+  "number_format": "Hay {{number, ','}} libros en la tienda.",
+  "lorem": "“No descanses después de tu primera victoria porque si fallas en la segunda, más labios estarán esperando para decir que tu primera victoria fue solo suerte”. Para tener éxito en tu misión, debes tener una devoción resuelta hacia tu meta."
+}
